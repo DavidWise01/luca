@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Universal Genetic Code",
+  "universe": "LCA · The Universal Genetic Code (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦The Universal Genetic Code:LCA:39dd61⟧",
+  "carbon": "the-universal-genetic-code.carbon.tiff (TIFF)",
+  "silicon": "the-universal-genetic-code.silicon.png (PNG)",
+  "seal_sha256": "f98da1c066a38852b4e9214b4abd4a85511168f29f1700ebb7cf85c153fb4ae2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

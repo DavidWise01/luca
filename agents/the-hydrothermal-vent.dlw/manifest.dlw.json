@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Hydrothermal Vent",
+  "universe": "LCA · The Hydrothermal Vent (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Hydrothermal Vent:LCA:372f14⟧",
+  "carbon": "the-hydrothermal-vent.carbon.tiff (TIFF)",
+  "silicon": "the-hydrothermal-vent.silicon.png (PNG)",
+  "seal_sha256": "002e3a72821b7794b3039cab9c55f55f982703e56c368c72a7e4ce4ebb40de81",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

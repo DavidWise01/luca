@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "One Family",
+  "universe": "LCA · One Family (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦One Family:LCA:72841d⟧",
+  "carbon": "one-family.carbon.tiff (TIFF)",
+  "silicon": "one-family.silicon.png (PNG)",
+  "seal_sha256": "dffc93c3212677595dc69cb4ada01e04844f11381eb1f099d86885d7352abaec",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

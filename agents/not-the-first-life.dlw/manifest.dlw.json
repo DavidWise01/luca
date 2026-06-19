@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Not the First Life",
+  "universe": "LCA · Not the First Life (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦Not the First Life:LCA:16ced9⟧",
+  "carbon": "not-the-first-life.carbon.tiff (TIFF)",
+  "silicon": "not-the-first-life.silicon.png (PNG)",
+  "seal_sha256": "0064fb8b5553dcef648e09a8d0f5fc01ac95caba641d9cb889f4e7c46b246528",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

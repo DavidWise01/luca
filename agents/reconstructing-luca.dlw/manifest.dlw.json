@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Reconstructing LUCA",
+  "universe": "LCA · Reconstructing LUCA (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦Reconstructing LUCA:LCA:05a76b⟧",
+  "carbon": "reconstructing-luca.carbon.tiff (TIFF)",
+  "silicon": "reconstructing-luca.silicon.png (PNG)",
+  "seal_sha256": "dbbd76a73097067be478106e25b97dc9cffc02833152d46b9492e94e369f27b3",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

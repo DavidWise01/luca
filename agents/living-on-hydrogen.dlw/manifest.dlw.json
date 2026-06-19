@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Living on Hydrogen",
+  "universe": "LCA · Living on Hydrogen (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦Living on Hydrogen:LCA:59646b⟧",
+  "carbon": "living-on-hydrogen.carbon.tiff (TIFF)",
+  "silicon": "living-on-hydrogen.silicon.png (PNG)",
+  "seal_sha256": "38d5fa8a7ea2a9cb5ec996ba77f58d241566b1177c0b7c4cc8a5905b5e0410fe",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

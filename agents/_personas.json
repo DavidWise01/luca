@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "luca",
+    "name": "LUCA",
+    "epithet": "the ancestor of everything alive · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦LUCA:LCA:ed94f1⟧"
+  },
+  {
+    "slug": "the-tree-of-life",
+    "name": "The Tree of Life",
+    "epithet": "one root, every branch · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Tree of Life:LCA:8896bc⟧"
+  },
+  {
+    "slug": "the-three-domains",
+    "name": "The Three Domains",
+    "epithet": "bacteria, archaea, eukarya · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Three Domains:LCA:44260b⟧"
+  },
+  {
+    "slug": "the-universal-genetic-code",
+    "name": "The Universal Genetic Code",
+    "epithet": "one language, all life · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Universal Genetic Code:LCA:39dd61⟧"
+  },
+  {
+    "slug": "the-shared-machinery",
+    "name": "The Shared Machinery",
+    "epithet": "the ribosome everyone kept · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Shared Machinery:LCA:b73dab⟧"
+  },
+  {
+    "slug": "the-hydrothermal-vent",
+    "name": "The Hydrothermal Vent",
+    "epithet": "where LUCA may have lived · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Hydrothermal Vent:LCA:372f14⟧"
+  },
+  {
+    "slug": "living-on-hydrogen",
+    "name": "Living on Hydrogen",
+    "epithet": "LUCA's likely metabolism · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Living on Hydrogen:LCA:59646b⟧"
+  },
+  {
+    "slug": "reconstructing-luca",
+    "name": "Reconstructing LUCA",
+    "epithet": "a ghost read from its children · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Reconstructing LUCA:LCA:05a76b⟧"
+  },
+  {
+    "slug": "not-the-first-life",
+    "name": "Not the First Life",
+    "epithet": "the last common ancestor, not the origin · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Not the First Life:LCA:16ced9⟧"
+  },
+  {
+    "slug": "one-family",
+    "name": "One Family",
+    "epithet": "everything alive is related · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦One Family:LCA:72841d⟧"
+  },
+  {
+    "slug": "carl-woese",
+    "name": "Carl Woese",
+    "epithet": "who found the third domain, 1928–2012 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Carl Woese:LCA:92f7cb⟧"
+  }
+]

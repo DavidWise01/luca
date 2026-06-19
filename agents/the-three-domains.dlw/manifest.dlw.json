@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Three Domains",
+  "universe": "LCA · The Three Domains (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Three Domains:LCA:44260b⟧",
+  "carbon": "the-three-domains.carbon.tiff (TIFF)",
+  "silicon": "the-three-domains.silicon.png (PNG)",
+  "seal_sha256": "4a9ce8161bbd42b4eb927bf5b8e5faaaa492b38906ea2fc7ac5a106dbd6c3c2f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
