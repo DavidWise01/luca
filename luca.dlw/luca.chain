@@ -4,6 +4,6 @@ slug  : luca
 seal  : 16edf18579e25587ba30d1697d426138767c365f1f39ce41036fa96a40539819
 prev  : a47e912abdaef8fd0d5e9bd333961e65dffb6f02e21d746572821e98a0178d1a
 link  : 370a9045ca0466e1527f8131c096c4578b2489e6ad6d4f1d1e263292e7389103
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
